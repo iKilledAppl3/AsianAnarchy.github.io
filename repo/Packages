@@ -1,0 +1,59 @@
+Package: com.aa.Aquarius-Beta2x
+Name: Aquarius - Beta (@2x)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A unique layered gradient theme. Requires IconBundles
+Depiction: 
+Homepage: https://twitter.com/AsianAnarchy117
+Maintainer: AsianAnarchy117 <kplansang@gmail.com>
+Author: Chon Lee <NoviceDesigns@outlook.com>
+Sponsor: GitHub.com <github.com>
+Section: Themes
+Filename: ./debs/iPhoneswag.deb
+Size: 999934
+MD5Sum: 64883787c080a0f6259a150a3442a630
+
+Package: com.aa.Aquarius-BetaiPhone6Plus
+Name: Aquarius - Beta (iPhone 6 Plus)
+Version: 1.01
+Architecture: iphoneos-arm
+Description: A unique layered gradient theme. Requires IconBundles
+Depiction: 
+Homepage: https://twitter.com/AsianAnarchy117
+Maintainer: AsianAnarchy117 <kplansang@gmail.com>
+Author: Chon Lee <NoviceDesigns@outlook.com>
+Sponsor: GitHub.com <github.com>
+Section: Themes
+Filename: ./debs/iPhone6Plusswag.deb
+Size: 1186040
+MD5Sum: 615a733bd53be85d3a0d044a5cce2cd8
+
+Package: com.aa.Aquarius-BetaiPadiOS8
+Name: Aquarius - Beta (iPad iOS 8)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A unique layered gradient theme. Requires IconBundles
+Depiction: 
+Homepage: https://twitter.com/AsianAnarchy117
+Maintainer: AsianAnarchy117 <kplansang@gmail.com>
+Author: Chon Lee <NoviceDesigns@outlook.com>
+Sponsor: GitHub.com <github.com>
+Section: Themes
+Filename: ./debs/iPadSwagiOS8.deb
+Size: 1323550
+MD5Sum: d56f2d4c758237714e0b2bd77017b7ef
+
+Package: com.aa.Aquarius-BetaiPad
+Name: Aquarius - Beta (iPad)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A unique layered gradient theme. Requires IconBundles
+Depiction: 
+Homepage: https://twitter.com/AsianAnarchy117
+Maintainer: AsianAnarchy117 <kplansang@gmail.com>
+Author: Chon Lee <NoviceDesigns@outlook.com>
+Sponsor: GitHub.com <github.com>
+Section: Themes
+Filename: ./debs/iPadSwagiOS7.deb
+Size: 1185918
+MD5sum:  b98d8867fb27784f64625fdca1f920c5
