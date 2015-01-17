@@ -57,3 +57,49 @@ Section: Themes
 Filename: ./debs/iPadSwagiOS7.deb
 Size: 1185918
 MD5sum:  b98d8867fb27784f64625fdca1f920c5
+
+Package: com.aa.colorbadges
+Name: ColorBadges
+Version: 1.0.5-5
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Description: Colorize you badges!
+Homepage: https://twitter.com/AsianAnarchy117
+Depiction: 
+Maintainer: AsianAnarchy <kplansang@gmail.com>
+Author: David Goldman <goldman.david0@gmail.com>
+Sponsor: GitHub <github.com>
+Section: Tweaks
+Filename: ./debs/ColorBadges.deb
+Size: 57046
+MD5Sum: 12126fdd7e4ebbe55b43ec78f34b83b6
+
+Package: com.aa.anemone
+Name: Anemone Icon for Winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iMods icon for Cydia
+Homepage: https://twitter.com/AsianAnarchy117
+Depiction: 
+Maintainer: AsianAnarchy <kplansang@gmail.com>
+Author: AsianAnarchy <kplansang@gmail.com>
+Sponsor: GitHub <github.com>
+Section: Themes
+Filename: ./debs/AnemoneIconForWinterboard.deb
+Size: 114900
+MD5Sum: 5187647c5b45958ac52cde72f791ac22
+
+Package: com.aa.imodsicon
+Name: iMods Icon for Cydia
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iMods icon for Cydia
+Homepage: https://twitter.com/AsianAnarchy117
+Depiction: 
+Maintainer: AsianAnarchy <kplansang@gmail.com>
+Author: AsianAnarchy <kplansang@gmail.com>
+Sponsor: GitHub <github.com>
+Section: Themes
+Filename: ./debs/iModsIconForCydia.deb
+Size: 114352
+MD5Sum: 49eeb8489e8cbd6bed979cedb0153e00
