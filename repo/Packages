@@ -78,16 +78,16 @@ Package: com.aa.anemone
 Name: Anemone Icon for Winterboard
 Version: 1.0
 Architecture: iphoneos-arm
-Description: iMods icon for Cydia
+Description: Anemone Icon for Winterboard
 Homepage: https://twitter.com/AsianAnarchy117
 Depiction: 
 Maintainer: AsianAnarchy <kplansang@gmail.com>
 Author: AsianAnarchy <kplansang@gmail.com>
 Sponsor: GitHub <github.com>
-Section: Themes
-Filename: ./debs/AnemoneIconForWinterboard.deb
-Size: 114900
-MD5Sum: 5187647c5b45958ac52cde72f791ac22
+Section: Theme
+Filename: ./debs/iModsIconForCydia.deb
+Size: 53960
+MD5Sum: 2e744c861d7fcddd90e3ced678a20804
 
 Package: com.aa.imodsicon
 Name: iMods Icon for Cydia
@@ -100,6 +100,6 @@ Maintainer: AsianAnarchy <kplansang@gmail.com>
 Author: AsianAnarchy <kplansang@gmail.com>
 Sponsor: GitHub <github.com>
 Section: Themes
-Filename: ./debs/iModsIconForCydia.deb
-Size: 114352
-MD5Sum: 49eeb8489e8cbd6bed979cedb0153e00
+Filename: ./debs/AnemoneIconForWinterboard.deb
+Size: 39522
+MD5Sum: a6597134aee151477028cbd2afcfc5c3
