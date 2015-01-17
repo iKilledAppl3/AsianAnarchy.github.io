@@ -74,21 +74,6 @@ Filename: ./debs/ColorBadges.deb
 Size: 57046
 MD5Sum: 12126fdd7e4ebbe55b43ec78f34b83b6
 
-Package: com.aa.anemone
-Name: Anemone Icon for Winterboard
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Anemone Icon for Winterboard
-Homepage: https://twitter.com/AsianAnarchy117
-Depiction: 
-Maintainer: AsianAnarchy <kplansang@gmail.com>
-Author: AsianAnarchy <kplansang@gmail.com>
-Sponsor: GitHub <github.com>
-Section: Theme
-Filename: ./debs/iModsIconForCydia.deb
-Size: 53960
-MD5Sum: 2e744c861d7fcddd90e3ced678a20804
-
 Package: com.aa.imodsicon
 Name: iMods Icon for Cydia
 Version: 1.0
