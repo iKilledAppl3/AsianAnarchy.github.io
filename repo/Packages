@@ -74,21 +74,6 @@ Filename: ./debs/ColorBadges.deb
 Size: 57046
 MD5Sum: 12126fdd7e4ebbe55b43ec78f34b83b6
 
-Package: com.aa.imodsicon
-Name: iMods Icon for Cydia
-Version: 1.0
-Architecture: iphoneos-arm
-Description: iMods icon for Cydia
-Homepage: https://twitter.com/AsianAnarchy117
-Depiction: 
-Maintainer: AsianAnarchy <kplansang@gmail.com>
-Author: AsianAnarchy <kplansang@gmail.com>
-Sponsor: GitHub <github.com>
-Section: Themes
-Filename: ./debs/AnemoneIconForWinterboard.deb
-Size: 39522
-MD5Sum: a6597134aee151477028cbd2afcfc5c3
-
 Package: com.aa.themelib
 Name: ThemeLib
 Version: 0.0.1-85
