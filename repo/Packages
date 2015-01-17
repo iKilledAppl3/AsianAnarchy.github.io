@@ -106,7 +106,7 @@ Size: 53876
 MD5Sum: 5c48bbdcfe60856e1c678098916121c7
 
 Package:  com.aa.classicbadges
-Name: Ckassic Badges
+Name: Classic Badges
 Version: 2.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.aa.themelib, winterboard
@@ -118,8 +118,8 @@ Author: CoolStar
 Sponsor: GitHub <github.com>
 Section: Themes
 Filename: ./debs/ClassicBadges.deb
-Size: 5626
-MD5Sum: ccd7beb18a322f776fcabaa0c9ad8c31
+Size: 5628
+MD5Sum: 7f828c736af92d0e0ee7352ae37988e9
 
 Package:  com.aa.moderbadges
 Name: Modern Badges
