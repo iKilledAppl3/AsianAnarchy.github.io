@@ -137,3 +137,18 @@ Section: Themes
 Filename: ./debs/CustomClockExample.deb
 Size: 1974
 MD5Sum: 29f792af60cd68c966893d4ee44b6d40
+
+Package: com.aa.imodsicon
+Name: iMods Icon for Cydia
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iMods icon for Cydia
+Homepage: https://twitter.com/AsianAnarchy117
+Depiction: 
+Maintainer: AsianAnarchy <kplansang@gmail.com>
+Author: AsianAnarchy <kplansang@gmail.com>
+Sponsor: GitHub <github.com>
+Section: Themes
+Filename: ./debs/iModsIconForCydia.deb
+Size: 53960
+MD5Sum: 2e744c861d7fcddd90e3ced678a20804
