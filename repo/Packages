@@ -58,21 +58,6 @@ Filename: ./debs/iPadSwagiOS7.deb
 Size: 1185918
 MD5sum:  b98d8867fb27784f64625fdca1f920c5
 
-Package: com.aa.colorbadges
-Name: ColorBadges
-Version: 1.0.5-5
-Architecture: iphoneos-arm
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Description: Colorize you badges!
-Homepage: https://twitter.com/AsianAnarchy117
-Depiction: 
-Maintainer: AsianAnarchy <kplansang@gmail.com>
-Author: David Goldman <goldman.david0@gmail.com>
-Sponsor: GitHub <github.com>
-Section: Tweaks
-Filename: ./debs/ColorBadges.deb
-Size: 57046
-MD5Sum: 12126fdd7e4ebbe55b43ec78f34b83b6
 
 Package: com.aa.imodsicon
 Name: iMods Icon for Cydia
@@ -88,3 +73,18 @@ Section: Themes
 Filename: ./debs/iModsIconForCydia.deb
 Size: 53960
 MD5Sum: 2e744c861d7fcddd90e3ced678a20804
+
+Package: com.xarnyx.eko
+Name: Eko (iOS8 Beta)
+Version: 5.11.16
+Architecture: iphoneos-arm
+Description: 
+Homepage: https://twitter.com/Xarnyx
+Depiction: http://asiananarchy.github.io/Eko
+Maintainer: Kristian Lansang <kristianlansang@gmail.com>
+Author: Sn0wCh1ld and Xarnyx
+Sponsor: GitHub <github.com>
+Section: Themes
+Filename: ./debs/Eko.deb
+Size: 1981468
+MD5Sum: 2dccc9d2983bdad40c66d19d1db27b7a
