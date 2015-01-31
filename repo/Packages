@@ -88,3 +88,19 @@ Section: Themes
 Filename: ./debs/Eko.deb
 Size: 1981468
 MD5Sum: 2dccc9d2983bdad40c66d19d1db27b7a
+
+Package: com.aa.colorbadges
+Name: ColorBadges
+Version: 1.0.7-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Description: Colored Badges!
+Homepage: https://twitter.com/AsianAnarchy117
+Depiction: http://asiananarchy.github.io/ColorBadges.html
+Maintainer: Kristian Lansang <kristianlansang@gmail.com>
+Author: David Goldman <goldman.david0@gmail.com>
+Sponsor: GitHub <github.com>
+Section: Tweaks
+Filename: ./debs/ColorBadges.deb
+Size: 61336
+MD5Sum: d44d0ded6f9f077797193075d85eb3cf
